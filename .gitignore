@@ -4,5 +4,8 @@ res/pngs
 res/txts
 res/nutrition
 
+# Notebook related files
+**/.ipynb_checkpoints
+
 # Mac related files
 **/.DS_Store
