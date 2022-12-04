@@ -1,0 +1,8 @@
+# Private data
+res/book
+res/pngs
+res/txts
+res/nutrition
+
+# Mac related files
+**/.DS_Store
