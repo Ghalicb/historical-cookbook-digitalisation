@@ -107,7 +107,6 @@ without
 4
 ##
 poulet
-eau
 vin jaune
 gros sel
 poivre en grains
@@ -169,7 +168,7 @@ without
 ##
 -
 ##
-oiseau grive de vignes
+grive de vignes oiseau
 raisin
 feuille de vigne
 barde de lard
@@ -243,7 +242,7 @@ with
 1 poulet
 2 œufs
 1 cuil. moutarde
-1 dl Madère
+1 dl vin Madère
 1 cuil. huile
 1 dl vin blanc
 1 dl fond brun

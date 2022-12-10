@@ -86,7 +86,7 @@ with
 ##
 4
 ##
-1 kg lamproie
+1 kg lamproie poisson
 1 dl huile de noix
 200 g beurre
 persil
@@ -115,7 +115,7 @@ with
 ##
 4-5
 ##
-1 kg saumon
+1 kg saumon poisson
 125 g lardons
 250 g échalotes
 200 g beurre
@@ -168,7 +168,7 @@ with
 ##
 3-4
 ##
-1.5 kg alose
+1.5 kg alose poisson
 1 kg champignons tricholomes
 300 g échalotes
 1 dl vin blanc
@@ -314,7 +314,7 @@ with
 ##
 1 jeune caneton
 0.5 verre vin Vouvray
-10 cl marc Touraine ou cognac
+10 cl eau-de-vie marc Touraine ou eau-de-vie Cognac
 1 kg farce de porc
 1 œuf
 200 g jambon

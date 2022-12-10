@@ -220,7 +220,7 @@ with
 ##
 6-8
 ##
-6 à 8 merlans
+7 merlans
 100 g beurre
 6 cl vin blanc
 1 cuil. moutarde
@@ -552,7 +552,7 @@ with
 250 g farine
 140 g sucre
 4 œufs
-1 dl rhum
+1 dl eau-de-vie Rhum
 50 g beurre
 125 g raisins Malaga
 25 g sucre fin
@@ -586,8 +586,7 @@ with
 60 g beurre
 20 g sucre
 20 g farine
-écorce d'orange 
-écorce de citron
+écorce d'orange ou écorce de citron
 ##
 Faites une purée de bonnes pommes de terre, ajoutez un peu de sucre
 en poudre (environ 10 g par livre de pommes de terre). parfumez cette

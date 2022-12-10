@@ -54,14 +54,14 @@ with
 30 queues d'écrevisses
 50 g beurre d'écrevisses
 50 g truffes
-6.5 cl cognac
+6.5 cl eau-de-vie Cognac
 0.125 litre crème
 0.125 litre béchamel
 125 g champignons
 truffe
 sel
 poivre
-Cayenne
+pointe de Cayenne
 ##
 Pour 2 personnes: Extrayez les chairs de 30 belles queues d’écrevisses
 que vous aurez préalablement castrées et pochées.
@@ -209,7 +209,8 @@ with
 ##
 36 écrevisses
 150 g beurre
-6.5 cl fine mirepoix
+6.5 cl fine 
+mirepoix
 bouquet garni
 0.75 litre vin blanc
 1 dl fond de veau
@@ -278,7 +279,7 @@ with
 4 œufs
 2 dl crème
 muscade
-Cayenne
+pointe de Cayenne
 sel
 poivre
 ##

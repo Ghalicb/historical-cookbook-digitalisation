@@ -6,7 +6,7 @@ with
 ##
 4
 ##
-loup
+loup poisson
 fenouil
 huile d'olive
 poivre
@@ -70,7 +70,7 @@ with
 ##
 6-8
 ##
-morue sèche
+morue sèche poisson
 0.5 litre huile d'olive
 1 oignon
 1 poireau
@@ -80,8 +80,8 @@ bouquet garni
 3 poivrons
 pommes de terre
 olives noires
-4 anchois
-cognac
+4 anchois poisson
+eau-de-vie Cognac
 ##
 Pour 6 à 8 personnes : Le stockfisch, morue conservée par séchage direct
 à l’air libre, ne peut être rendu comestible sans un traitement préalable

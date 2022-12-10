@@ -9,7 +9,7 @@ with
 1 kg langouste
 60 g beurre
 6 oignons
-1 dl fine champagne
+1 dl fine Champagne
 0.75 litre vin rouge
 ail
 échalote
@@ -42,9 +42,9 @@ with
 ##
 180 g farine
 90 g beurre
-500 g tomate fraiche
+500 g tomate fraiche OU 1 cuil. tomate concentrée
 olives noires
-filet anchois
+filet anchois poisson
 ##
 Pour 4 personnes: Faire une pâte 1/2 feuilletée mais prendre grand
 soin de ne pas l’étendre au rouleau. Lui donner à la main la grandeur du
@@ -97,7 +97,7 @@ without
 -
 ##
 coing
-eau de vie
+eau-de-vie
 clou de girofle
 cannelle
 ##
@@ -224,7 +224,7 @@ with
 ##
 4
 ##
-1 kg tripes
+1 kg tripes de veau
 1 pied de veau
 4 dl vin blanc
 50 g beurre

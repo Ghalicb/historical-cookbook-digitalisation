@@ -6,7 +6,7 @@ with
 ##
 -
 ##
-1.5 kg épaule et palette de porc
+1.5 kg épaule et palette porc
 1 litre bouillon
 0.5 litre vin blanc
 6 échalotes
@@ -48,7 +48,7 @@ with
 ##
 1 sole
 3 échalotes
-1 verre champagne
+1 verre vin Champagne
 1 cuil. farine
 sel
 poivre
@@ -83,7 +83,7 @@ with
 2 carottes
 1 branche céleri
 0.5 pied de veau
-0.5 bout. Champagne
+0.5 bout. vin Champagne
 ##
 Pour 4 personnes : Ayant bridé et bardé un poulet dodu, préparer, pour
 le bourrer, une bonne farce à la champenoise.
@@ -203,7 +203,7 @@ with
 ail
 échalote
 50 g beurre
-1 dl champagne
+1 dl vin Champagne
 persil haché
 sel
 poivre

@@ -8,7 +8,7 @@ with
 ##
 1.2 kg truites
 50 g beurre
-] verre vermouth blanc
+1 verre alcool Vermouth blanc
 2 œufs
 1 dl crème
 125 g gruyère
@@ -66,7 +66,7 @@ with
 10 petits oignons
 250 g champignons
 1 truffe
-6 cl eau de vie
+6 cl eau-de-vie
 0.75 litre vin rouge
 1 petite cuil. farine
 bouquet garni
@@ -169,7 +169,7 @@ with
 1 gousse ail
 bouquet garni
 sarriette
-armagnac
+eau-de-vie Armagnac
 ##
 Pour 6 personnes: Pendre un coq de 1 an à 18 mois bien en chair, le
 couper en morceaux, le faire revenir au beurre, y ajouter quelques petits
@@ -203,7 +203,7 @@ with
 6 cuil. sucre poudre
 0.75 litre lait
 1 kg cerises
-2 cl kirsch
+2 cl eau-de-vie Kirsch
 1 pincée sel
 ##
 Pour 6 personnes: Mettez la farine dans une terrine, puis le sel, et, un

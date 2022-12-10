@@ -178,7 +178,7 @@ with
 ##
 -
 ##
-1 rouget
+1 rouget poisson
 huile d'olive
 1 tranche de bacon
 4 jaunes d'œufs
@@ -326,7 +326,7 @@ with
 1 kg oignons
 1 dl huile d'olive
 400 g pâte à pain
-12 filets anchois
+12 filets anchois poisson
 4 tomates
 ail
 olives noires
@@ -427,7 +427,7 @@ with
 1 cœur céleri
 50 g champignons
 1 artichaut
-1 boîte d'anchois
+1 boîte d'anchois poisson
 500 g pain
 1 dl huile d'olive
 ##

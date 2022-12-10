@@ -6,13 +6,13 @@ with
 ##
 6
 ##
-500 g congre
-500 g lotte
-1 gros grondin
-1 rascasse
+500 g congre poisson
+500 g lotte poisson
+1 gros grondin poisson
+1 rascasse poisson
 6 langoustines
 1 litre moules
-1 tête merlu
+1 tête merlu poisson
 0.5 litre vin blanc
 2 oignons
 1 cuil. piment doux
@@ -95,7 +95,7 @@ with
 1 oignon
 1 cuil. farine
 100 g champignons
-1 verre Armagnac
+1 verre eau-de-vie Armagnac
 1 verre vin blanc
 2 cuil. échalotes hachées
 1 pointe ail
@@ -105,7 +105,7 @@ bouquet garni
 Pour 6 personnes: Faire rissoler à l’huile une mirepoix de 2 carottes
 en dés, 1 petit oignon, 1 pointe d’ail. Ajouter 1 cuillerée de farine et
 laisser légèrement roussir. Mouiller cette mirepoix d’un quart de litre
-d’eau ou -de bouillon de préférence, saler légèrement. Ajouter 2 grains
+d’eau ou de bouillon de préférence, saler légèrement. Ajouter 2 grains
 de poivre concassés, 1 petit bouquet garni. Laisser cuire.
 
 Rôtir les palombes ( très saignantes). Les découper en quatre, dépouiller
@@ -143,7 +143,7 @@ with
 100 g lard fumé
 150 g olives vertes
 400 g piments espagnols
-1 kg tomates fraîches
+1 kg tomates fraîches OU 6 cuil. tomate concentrée
 3.5 oignons
 6 cl huile d'olive
 ##
@@ -224,7 +224,7 @@ with
 ##
 6
 ##
-1 boîte filets morue
+1 boîte filets morue poisson
 1 kg tomates
 200 g piments espagnols
 ail
@@ -254,7 +254,7 @@ with
 ##
 6
 ##
-6 tranches Merluza
+6 tranches Merluza poisson
 500 g pois frais
 500 g pointes d'asperges
 500 g pommes de terre
@@ -322,8 +322,7 @@ with
 0.25 litre lait
 rhum
 citron râpé
-crème patissière 
-confitures cerises
+crème patissière ou confitures cerises
 ##
 Pour 8 personnes : Le gâteau basque a acquis une réputation mondiale.
 On raconte que le Prince de Galles… (Mais ceci est une autre histoire!)

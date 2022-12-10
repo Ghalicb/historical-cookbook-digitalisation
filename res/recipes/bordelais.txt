@@ -180,12 +180,12 @@ with
 4
 ##
 1 kg lamproie
-8-10 poireaux
+9 poireaux
 0.5 l vin rouge
 150 g jambon
 30 g beurre
 25 g farine
-6 cl cognac
+6 cl eau-de-vie Cognac
 ##
 Pour 4 personnes : Saigner une lamproie et conserver le sang. La faire
 bien égoutter puis la plonger dans l’eau bouillante quelques minutes afin
@@ -273,12 +273,13 @@ with
 2-3
 ##
 1 kg entrecote
-6-7 échalotes
+6.5 échalotes
 huile d'olive
 sel
 poivre
 persil
 beurre
+SAUCE BORDELAISE
 ##
 Pour 2 ou 3 personnes : Faire griller l’entrecôte, de préférence sur un
 gril, après l’avoir passée à l’huile d’olive. Préparer beurre, persil, sel et

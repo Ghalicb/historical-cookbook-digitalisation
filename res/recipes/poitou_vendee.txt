@@ -40,7 +40,7 @@ with
 ##
 1 lapin de garenne
 0.75 litre vin blanc
-6 cl cognac
+6 cl eau-de-vie Cognac
 500 g jambon
 1 pied de veau
 bouquet garni
@@ -108,7 +108,7 @@ with
 ##
 6-8
 ##
-2 kg colin
+2 kg colin poisson
 1 l vin blanc
 800 g cèpes
 40 g beurre
@@ -118,6 +118,7 @@ bouquet garni
 safran
 sel
 poivre
+SAUCE PRIEURE
 ##
 Pour 6 à 8 personnes: Couper en grosses tranches de 3 cm d’épaisseur
 2 kg de colin très frais. Les faire cuire « à frémissement » dans un 

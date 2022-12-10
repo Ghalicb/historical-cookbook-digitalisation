@@ -201,7 +201,7 @@ pointe de Cayenne
 jus de citron
 1 œuf
 0.33 litre béchamel
-2 cuil. à soupe vin Frontignan
+2 cuil. soupe vin Frontignan
 ##
 Pour 4 ou 5 personnes: Choisir un kg de très petits, très blancs et très
 frais champignons de couche ayant tous les chapeaux fermés (ou à peine
@@ -266,7 +266,7 @@ without
 ##
 entrecôte
 cresson
-sauce Bercy
+SAUCE BERCY
 ##
 Prendre un bel entrecôte, non salé et le poser à feu vif sur un gril bien
 chaud. Après quelques minutes de cuisson, le déposer sur le plat de service,
@@ -282,7 +282,7 @@ with
 ##
 3-4
 ##
-500 g veau
+500 g jarret veau ou épaule veau
 3 tomates coupées
 10 champignons de couche
 1 verre vin blanc
@@ -321,7 +321,7 @@ cerfeuil
 ciboulette
 estragon
 sel
-sauce tartare
+SAUCE TARTARE
 ##
 Pour 4 ou 5 personnes : Faire dégorger 12 heures une belle tête de veau
 bien blanche, avec sel et vinaigre.
@@ -394,9 +394,9 @@ without
 ##
 2
 ##
-perche
+perche poisson
 beurre
-sauce à la ravigote
+SAUCE A LA RAVIGOTE
 ##
 Pour 2 personnes : Vider, écailler, inciser en losanges les 2 côtés, et faire
 griller le poisson en le mouillant de temps à autre de beurre fondu ou
@@ -447,6 +447,7 @@ with
 6 côtelettes
 20 g beurre
 huile d'olive
+SAUCE PIQUANTE
 ##
 Pour 6 personnes: Badigeonner d’huile d’olive de belles côtelettes dont
 vous aurez enlevé le gras, et laissez-les ainsi quelques heures. Mettre, d’autre
@@ -467,7 +468,7 @@ with
 ##
 2
 ##
-2 merlans
+2 merlans poisson
 1 dl vin blanc
 12 champignons
 50 g beurre
@@ -698,7 +699,7 @@ huile
 beurre
 échalote
 ail
-cognac
+eau-de-vie Cognac
 vin blanc
 purée de tomate
 sel
@@ -762,7 +763,7 @@ with
 ##
 4-5
 ##
-1 kg épaule
+1 kg épaule de mouton
 20 g graisse de porc
 1 kg pommes de terre
 3.5 oignons
@@ -787,7 +788,7 @@ with
 ##
 2-3
 ##
-6 grives
+6 grives oiseau
 100 g lard
 100 g veau
 100 g foie de volaille
@@ -816,9 +817,9 @@ pâte feuilletée
 sucre
 confiture
 ##
-Faire une abaisse de pâte bien feuilletée, et la couper à l’aide du coupe-
-pâte à feston ; répéter la même opération deux fois de suite avec des coupe-
-pâte de taille moindre. Superposer les trois épaisseurs et mettre au four
+Faire une abaisse de pâte bien feuilletée, et la couper à l’aide du coupe-pâte 
+à feston ; répéter la même opération deux fois de suite avec des coupe-pâte 
+de taille moindre. Superposer les trois épaisseurs et mettre au four
 sur une plaque. Quand ils sont presque cuits, saupoudrer abondamment
 de sucre fin, et laisser glacer. Ceci fait, les retirer du four et les garnir de
 confiture au goût.
@@ -921,7 +922,7 @@ bœuf
 huile
 sel
 poivre
-sauce piquante
+SAUCE PIQUANTE
 ##
 Parer une côte de bœuf de manière qu’il ne reste que l’os de la côte
 que vous décharnez au bout. Après avoir fait tremper cette côte dans

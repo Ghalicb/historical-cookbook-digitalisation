@@ -80,7 +80,7 @@ without
 ##
 -
 ##
-lard de poitrine porc
+lard de poitrine
 champignon
 persil
 cerfeuil
@@ -189,7 +189,7 @@ without
 ##
 -
 ##
-filet de lard porc
+filet de lard
 beurre
 sel
 ##
@@ -236,7 +236,7 @@ oignon
 beurre
 bœuf
 persil
-lard de poitrine porc
+lard de poitrine
 sel
 poivre
 mie de pain

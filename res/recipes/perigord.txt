@@ -8,7 +8,7 @@ without
 ##
 bouillon de poule
 miche de pain
-Safran
+safran
 ##
 Le mourtaïrol est un potage au Safran.
 
@@ -62,7 +62,7 @@ with
 1 foie gras
 toast
 beurre
-sauce quercynoise
+SAUCE QUERCYNOISE
 ##
 Pour 4 à 6 personnes : Prendre un beau foie gras. Le couper en tranches
 régulières et les déposer sur des toasts beurrés à l’entrée du four. Au
@@ -87,7 +87,7 @@ laurier
 farine
 0.25 l vin blanc sec
 jus de rôti de veau
-1 cuil. à soupe madère
+1 cuil. à soupe vin Madère
 beurre
 truffes
 ##
@@ -113,7 +113,7 @@ with
 6
 ##
 750 g pommes de terre
-250 g truttes
+250 g truffes
 150 g graisse d'oie
 0.5 litre vin blanc Monbozillac
 sel
@@ -195,8 +195,8 @@ pâte à brioche
 œuf
 foie gras
 truffe
-cognac ou armagnac
-porto
+eau-de-vie Cognac ou eau-de-vie Armagnac
+vin porto
 ##
 Dans un moule rectangulaire placer une abaisse de pâte à brioche d’un
 centimètre d’épaisseur, enduire d’une farce fine liée avec œuf entier, de
@@ -254,8 +254,8 @@ with
 ##
 Pour 4 personnes: Pour une fouasse de 1 kg: mettre dans un saladier
 une livre de farine; ménager un trou au centre dans lequel on casse deux
-œufs que l’on mélange à 150 g de sucre en poudre, un peu de sel, 2 cuille-
-rées d’huile ordinaire, 20 g de levure de bière fraîche délayée dans un
+œufs que l’on mélange à 150 g de sucre en poudre, un peu de sel, 2 cuillerées 
+d’huile ordinaire, 20 g de levure de bière fraîche délayée dans un
 demi-verre d’eau et un arôme au choix.
 
 Brasser le tout en ajoutant de temps en temps un peu de farine. Lorsque
@@ -294,11 +294,11 @@ with
 ##
 4
 ##
-2 kg carpe
+2 kg carpe poisson
 1.5 truffes
 100 g farce
-400 g foie gros
-1 verre à liqueur fine champagne
+400 g foie gras
+1 verre à liqueur fine Champagne
 ##
 Pour 4 personnes : Prendre une très belle carpe de 2 kg dont vous aurez
 eu soin d’enlever la peau, clouter avec des truffes. Farcir avec 100 g de
@@ -326,6 +326,7 @@ with
 sel
 poivre
 muscade
+SAUCE PERIGUEUX
 ##
 Pour 6 personnes : Choisir un beau filet de bœuf, bien le parer, en ayant
 soin de laisser la chaîne, faire une incision à la hauteur de la chaîne sur
@@ -348,7 +349,7 @@ oignon
 truffe noire
 farine
 vin blanc
-eau de vie
+eau-de-vie
 bouillon
 ##
 Prendre 2 ou 3 échalotes, des oignons, quelques truffes noires et odorantes, 
@@ -469,8 +470,8 @@ with
 8 œufs
 75 g truffes
 20 g beurre
-1 dl Monbazillac
-Armagnac
+1 dl vin Monbazillac
+eau-de-vie Armagnac
 ##
 Pour 4 personnes : Prendre huit œufs, tailler 75 g de truffes fraîches en
 petits dés. Les placer dans une petite casserole avec une noix de beurre,

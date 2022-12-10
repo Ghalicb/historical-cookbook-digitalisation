@@ -1,4 +1,4 @@
-Orleans
+Orléans
 ##
 POMMES DE TERRE EN ROBE DE CHAMBRE DU BLESOIS
 ##
@@ -7,7 +7,7 @@ with
 4-5
 ##
 2 kg pommes de terre
-350 g panne
+350 g panne porc
 ##
 Pour 4 ou 5 personnes : Prendre de la panne et la couper en petits dés
 (il faut environ 350 g pour 2 kg de pommes de terre). Choisir des
@@ -19,7 +19,7 @@ heures à petit feu, de préférence sur cendres chaudes.
 
 **
 
-Orleans
+Orléans
 ##
 CARPE DE LOIRE FARCIE OU CARPE CHAMBORD
 ##
@@ -27,7 +27,7 @@ with
 ##
 6
 ##
-2.5 kg carpes
+2.5 kg carpes poisson
 1 œuf
 0.5 litre crème fraîche
 100 g champignons
@@ -59,7 +59,7 @@ montent au beurre.
 
 **
 
-Orleans
+Orléans
 ##
 FAISAN EN BARBOUILLE
 ##
@@ -72,7 +72,7 @@ with
 250 g rouge de carottes
 125 g oignons
 3 dl vin rouge
-30 cl Armagnac
+30 cl eau-de-vie Armagnac
 10 champignons
 10 petits oignons
 125 g lardons
@@ -94,7 +94,7 @@ pendant 40 à 50 minutes.
 
 **
 
-Orleans
+Orléans
 ##
 COTELETTES DE CHEVREUIL A LA SOLOGNOTE
 ##
@@ -118,7 +118,7 @@ et accompagnées d’une sauce poivrade en saucière chaude.
 
 **
 
-Orleans
+Orléans
 ##
 CAILLE BOUILLIE A LA FEUILLE DE VIGNE
 ##
@@ -146,7 +146,7 @@ lard dans la cocotte couverte. Toast passé au beurre servi à part.
 
 **
 
-Orleans
+Orléans
 ##
 PATE D’ALOUETTES DE PITHIVIERS
 ##
@@ -177,7 +177,7 @@ heure, et doré au jaune d’œuf. Servir froid.
 
 **
 
-Orleans
+Orléans
 ##
 SAUCISSES DE POMMES DE TERRE
 ##
@@ -201,7 +201,7 @@ une sauce blanche ou financière.
 
 **
 
-Orleans
+Orléans
 ##
 TARTE DES DEMOISELLES TATIN
 ##
@@ -228,7 +228,7 @@ Pour servir, on démoule en retournant sur le plat de service, de façon
 
 **
 
-Orleans
+Orléans
 ##
 CANARD A LA SOLOGNOTE
 ##
@@ -238,7 +238,7 @@ with
 ##
 1.3 kg canard
 50 g mie de pain brioché
-10 cl Armagnac
+10 cl eau-de-vie Armagnac
 oignons
 tomates
 sarriette
@@ -264,7 +264,7 @@ Le jus passé avec les aromates sera additionné de poivre frais moulu.
 
 **
 
-Orleans
+Orléans
 ##
 COTELETTES DE GRIVES A LA BROS
 ##
@@ -272,15 +272,15 @@ with
 ##
 6
 ##
-20 grives
+20 grives oiseau
 100 g foie gras
 200 g veau
 200 g maigre de porc
 200 g gras de porc
-Armagnac
-genièvre
+eau-de-vie Armagnac
+eau-de-vie Genièvre
 2 litres fond de veau lié
-1 bouteille Bourgogne
+1 bouteille vin Bourgogne
 2 litres consommé
 thym
 laurier
@@ -316,7 +316,7 @@ servir saucées avec croûtons au beurre.
 
 **
 
-Orleans
+Orléans
 ##
 LIEVRE A L’IMPERIALE
 ##
@@ -329,9 +329,9 @@ with
 400 g foie gras
 30 gousses d'ail
 bardes de lard
-2 verres Bourgogne
+2 verres vin Bourgogne
 3 gros oignons
-15 cl sang de veau
+15 cl sang de veau ou sang de porc
 croûtons
 ##
 Pour 4 ou 5 personnes : Choisir un levreau de 6 à 7 livres. Après l’avoir
@@ -362,7 +362,7 @@ Ce plat se mange à la cuiller.
 
 **
 
-Orleans
+Orléans
 ##
 COTIGNAC
 ##

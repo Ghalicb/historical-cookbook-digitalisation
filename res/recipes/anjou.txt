@@ -104,7 +104,7 @@ with
 6 dl huile olive
 12 champignons
 1 litre vin blanc
-6 cl fine champagne
+6 cl fine Champagne
 60 g farine
 50 g beurre
 persil
@@ -163,7 +163,7 @@ with
 1 litre lait
 125 g sucre en poudre
 100 g cerises confites
-6 cl Cherry
+6 cl liqueur Cherry
 75 g beurre
 4 œufs
 ##

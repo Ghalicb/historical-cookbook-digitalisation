@@ -6,7 +6,7 @@ with
 ##
 4
 ##
-1 kg d'anguilles
+1 kg anguilles
 125 g saindoux
 3.5 oignons
 250 g carottes
@@ -52,7 +52,7 @@ with
 ##
 1 lapin
 30 g farine
-3 cl eau de vie
+3 cl eau-de-vie
 2 cl vin blanc
 2 cl bouillon
 10 petits oignons
@@ -81,7 +81,7 @@ with
 ##
 2-3
 ##
-1.25 kg poisson brêmes
+1.25 kg poisson Brêmes
 1 dl vin blanc
 250 g beurre
 2 œufs
@@ -262,7 +262,7 @@ without
 -
 ##
 pomme de terre
-poisson goujon
+poisson Goujon
 ##
 Couper des pommes de terre en longues tranches et les faire frire dans
 une même poêle avec des goujons. Ce voisinage donne à la pomme de
@@ -455,7 +455,7 @@ with
 750 g abricots
 grains raisin frais
 sucre en poudre
-5 cl eau de vie kirsch
+5 cl eau-de-vie Kirsch
 250 g crème Chantilly
 ##
 Couper en rondelles 4 bananes pelées. Diviser en cubes 750 g d’abricots.

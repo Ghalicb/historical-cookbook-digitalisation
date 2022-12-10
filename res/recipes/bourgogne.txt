@@ -165,7 +165,7 @@ with
 1 kg rumsteack
 6 échalotes
 1 cuil. moutarde
-1 di vin blanc sec
+1 dl vin blanc sec
 sel
 poivre
 ##
@@ -248,7 +248,7 @@ with
 1 oignon
 1 branche céleri
 1 branche estragon
-Cayenne
+pointe de Cayenne
 piment
 thym
 laurier
@@ -301,7 +301,7 @@ with
 2-3
 ##
 1 lièvre
-1 dl eau de vie
+1 dl eau-de-vie
 125 g raisin
 l cuil. poivrade
 1 cuil. crème double
@@ -385,7 +385,7 @@ grains de poivre
 3 g poivre
 1 filet d'anchois
 jus de citron
-Cayenne
+pointe de Cayenne
 ##
 Pour 3 personnes: Préparer un fond de cuisson pour les escargots,
 composé de jambon cru un peu gras, de carottes, oignons, échalotes, le

@@ -45,7 +45,7 @@ with
 8 œufs
 1 dl crème double
 1 cuil. échalotes
-20 gr beurre
+20 g beurre
 sel
 poivre rouge
 persil
@@ -153,7 +153,7 @@ with
 ##
 750 g farine
 4 œufs
-2 cuil. eau de vie
+2 cuil. eau-de-vie
 300 g'beurre
 sucre en poudre
 ##
@@ -203,12 +203,11 @@ with
 ##
 6
 ##
-1 k vinaigre de vin
+1 l vinaigre de vin
 18 têtes d'ail
 10 échalotes
 1 gros oignon
-1 foie lapin 
-1 foie poulet
+1 foie lapin ou foie poulet
 1.5 l vin blanc
 50 g lard frais
 1 œuf

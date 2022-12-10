@@ -52,7 +52,7 @@ beurre
 échalote
 oignon
 persil
-lard gras porc
+lard gras
 vin blanc
 couenne de porc
 pied de veau
@@ -112,9 +112,9 @@ with
 ##
 4
 ##
-1 kg brochets poissons
+1 kg brochets poisson
 150 g beurre
-6.5 cl Mirabelle
+6.5 cl eau-de-vie Mirabelle
 2 échalotes
 1 bout. vin gris de Bruley
 bouquet garni
@@ -386,7 +386,7 @@ with
 125 g sucre en poudre
 1 litre lait
 6 cuil. farine
-2.5 cl Mirabelle
+2.5 cl eau-de-vie Mirabelle
 20 g beurre
 poivre
 ##

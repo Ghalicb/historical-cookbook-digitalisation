@@ -14,7 +14,7 @@ with
 4 oignons
 1 gousse ail
 4 clous girofle
-2.5 cl Calvados
+2.5 cl eau-de-vie Calvados
 bouquet garni
 ##
 Pour 6 personnes : Prendre 1 kg de gras-double épais et blanc, le gratter,
@@ -49,8 +49,7 @@ with
 ##
 50 g beurre
 1 oignon
-0.5 litre vin blanc 
-0.5 litre cidre
+0.5 litre vin blanc ou cidre
 2 œufs
 bouquet garni
 citron
@@ -78,8 +77,7 @@ with
 ##
 75 g beurre
 1 cuil. farine
-1 dl vin blanc 
-1 dl cidre
+1 dl vin blanc ou cidre
 250 g crème fraîche
 muscade
 cannelle
@@ -108,8 +106,7 @@ with
 -
 ##
 1 oignon
-1 dl cidre 
-1 dl vin rouge
+1 dl cidre ou vin rouge
 3 cuil. glace de viande
 3 cuil. jus de rôti
 citron
@@ -132,7 +129,7 @@ with
 ##
 3-4
 ##
-2 soles
+2 soles poisson
 1 litre moule
 125 g crevettes
 125 g champignons
@@ -180,7 +177,7 @@ with
 ##
 4-5
 ##
-1 barbue ou turbot
+1 barbue poisson ou turbot poisson
 2 litres moules marinière
 6 oignons
 250 g crevettes
@@ -194,8 +191,8 @@ Pour 4 ou 5 personnes : Se fait d’une barbue ou d’un turbot. Préparer
 deux litres de moules marinières et, séparément, braiser au beurre pendant
 une demi-heure six beaux oignons émincés avec un peu de persil haché.
 Verser dans un grand plat creux allant au feu la cuisson des moules et des
-oignons avec leur jus, poser la barbue ou le turbot dessus et mouiller mi-
-eau, mi-cidre (pas de vin) pour que le poisson baigne un peu plus de
+oignons avec leur jus, poser la barbue ou le turbot dessus et mouiller mi-eau, 
+mi-cidre (pas de vin) pour que le poisson baigne un peu plus de
 moitié. Couvrir et faire partir, à mi-cuisson mettre au four bien chaud
 et arroser souvent. Un peu avant de servir, ajouter un bon morceau de
 beurre, manié d’un rien de farine et de persil haché et aromatisé d’un
@@ -223,8 +220,8 @@ sel
 poivre
 ##
 Pour 4 ou 5 personnes: Choisir un beau canard. L’étouffer. Le farcir
-avec son foie ; ajouter lard, oignons, fines herbes, sel, poivre, épices. Hacher
-le tout.
+avec son foie ; ajouter lard, oignons, fines herbes, sel, poivre, épices. 
+Hacher le tout.
 
 Brider le canard. Le faire rôtir saignant. Découper et faire des filets.
 Presser la carcasse pour recueillir le sang. Déglacer au vin rouge, ajouter
@@ -314,7 +311,7 @@ with
 250 g blanc de poule
 2 dl sauce béchamel
 350 g champignons
-1 dl Calvados
+1 dl eau-de-vie Calvados
 1 litre lait
 4 œufs
 1.5 dl crème double
@@ -368,7 +365,7 @@ with
 6 grosses pommes de terre
 3 poireaux
 1 petit chou
-250 g haricots verts ou 125 g flageolets
+250 g haricots verts OU 125 g flageolets
 1 branche céleri
 1 cuil. graisse
 persil
@@ -416,7 +413,7 @@ with
 ##
 1.2 kg poulet
 100 g beurre
-2.5 cl Calvados
+2.5 cl eau-de-vie Calvados
 1 dl crème
 2 œufs
 ##
@@ -442,7 +439,7 @@ with
 2 œufs
 6 pommes
 50 g beurre
-2.5 cl Calvados
+2.5 cl eau-de-vie Calvados
 1 dl cidre
 carottes
 oignons
@@ -578,7 +575,7 @@ with
 3 pommes
 6 œufs
 100 g beurre
-2.5 cl Calvados
+2.5 cl eau-de-vie Calvados
 1 cuil. sucre en poudre
 sel
 ##

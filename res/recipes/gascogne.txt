@@ -6,7 +6,7 @@ with
 ##
 1
 ##
-1 beau foie de canard
+1 foie de canard
 1 dl vin blanc
 1.5 cuil. tomates
 1 cuil. café bouillon d'os
@@ -39,7 +39,7 @@ levure de boulanger
 lait
 12 g sucre en poudre
 10 g sel
-1 verre à liqueur Izarra
+1 verre à liqueur liqueur Izarra
 ##
 Prenez un quart, soit 125 g de farine pour préparer le levain. Faites
 une fontaine au milieu, mettez-y un peu de levure de boulanger, et délayez
@@ -94,7 +94,7 @@ with
 ##
 4
 ##
-1 belle alose
+1 alose
 250 g jambon Bayonne
 feuilles d'oseille
 huile d'olive
@@ -191,7 +191,7 @@ with
 20 pruneaux
 sucre
 fleur d'oranger
-eau de vie
+eau-de-vie
 ##
 Pour 4 personnes: Dans une terrine, mettez une demi-livre de farine,
 1 petit verre de lait froid, 2 œufs, 1 pincée de sel. Battez bien et laissez
@@ -220,7 +220,7 @@ with
 6 œufs
 100 g sucre
 1 cuil. crème fraîche
-1 petit verre eau de vie armagnac
+1 petit verre eau-de-vie Armagnac
 ##
 Pour 4 personnes : Dans un moule allant au four, mettre 100 g de sucre,
 1 cuillerée à soupe de crème fraîche, 6 jaunes d’œufs et 3 blancs. Bien
@@ -238,9 +238,9 @@ ORTOLANS A LA MODE LANDAISE
 ##
 with
 ##
--
+1
 ##
-3 ortolans par personne
+3 ortolans
 foie gras
 beurre
 grains de raisin
@@ -266,7 +266,7 @@ with
 tourterelles
 jambon des Landes
 canapés
-eau de vie armagnac (flambé)
+eau-de-vie Armagnac
 ##
 Une tourterelle par personne : Faire rôtir des tourterelles disposées en
 brochette devant un feu d’épaves et de sarments de vigne. Intercaler de
