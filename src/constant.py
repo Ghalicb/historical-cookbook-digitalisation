@@ -1,12 +1,17 @@
+Units_words = [
+	'cuil. à soupe', 'cuil. café', 'cuil. soupe', 'petite cuil.', 'cuil.',
+	'grande cuil.', 'grande boîte',
+	'petit verre', 'verre à liqueur', 'verres à liqueur',
+	'bout.', 'bouteilles', 'bouteille',
+	'gousses', 'gousse', 'branches', 'branche',
+	'membres', 'membre', 'tronçons', 'tronçon', 'tranches', 'tranche',
+	'litres', 'litre', 'tasses', 'tasse', 'verres', 'verre', 'tubes', 'tube', 
+	'pincée', 'quelques'
+]
 
+Units_letters = ['cl', 'dl', 'kg', 'g', 'l']
 
-
-Units = {
-	'litre', 'litres', 'l', 'cl', 'dl', 'kg', 'g', 'pincée', 'cuil.', 'cuil. café', 'cuil. soupe', 'cuil. à soupe', 
-	'petite cuil.', 'grande cuil.', 'verre', 'verres', 'petit verre', 'verre à liqueur', 'verres à liqueur', 'tasse', 
-	'tasses', 'bout.', 'bouteille', 'bouteilles', 'grande boîte', 'gousse', 'gousses', 'branche', 'branches', 'membre', 
-	'membres', 'tronçon', 'tronçons', 'tranche', 'tranches', 'tube', 'tubes'
-}
+Categories = {'amande', 'Champagne', 'bœuf', 'œuf', 'lait', 'vin'}
 
 Region2SubRegion = {	
 	"Paris, Ile de France, Val de Loire": ['Paris', 'Ile-de-France', 'Orléans', 'Touraine'],
