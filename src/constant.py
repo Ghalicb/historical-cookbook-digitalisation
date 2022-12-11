@@ -5,7 +5,7 @@ Units = {
 	'litre', 'litres', 'l', 'cl', 'dl', 'kg', 'g', 'pincée', 'cuil.', 'cuil. café', 'cuil. soupe', 'cuil. à soupe', 
 	'petite cuil.', 'grande cuil.', 'verre', 'verres', 'petit verre', 'verre à liqueur', 'verres à liqueur', 'tasse', 
 	'tasses', 'bout.', 'bouteille', 'bouteilles', 'grande boîte', 'gousse', 'gousses', 'branche', 'branches', 'membre', 
-	'membres', 'tronçon', 'tronçons', 'tranche', 'tranches', 'tube', 'tubes'
+	'membres', 'tronçon', 'tronçons', 'tranche', 'tranches', 'tube', 'tubes', 'bâton', 'bâtons'
 }
 
 Region2SubRegion = {	
