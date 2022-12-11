@@ -4,6 +4,9 @@ res/pngs
 res/txts
 res/nutrition
 
+# Python related files
+**/__pycache__
+
 # Notebook related files
 **/.ipynb_checkpoints
 
