@@ -58,7 +58,7 @@ with
 ##
 6
 ##
-1 kg 200 pommes de terre
+1.2 kg pommes de terre
 1 kg champignons
 125 g gruyère
 250 g crème fraîche

@@ -81,7 +81,7 @@ with
 ##
 4
 ##
-4-5 oignons
+4.5 oignons
 150 g graisse de porc
 1 tasse consommé
 4 jaunes d'œufs
@@ -272,7 +272,7 @@ with
 ##
 2-3
 ##
-1 kg entrecote
+1 kg entrecote viande
 6.5 échalotes
 huile d'olive
 sel
@@ -323,7 +323,7 @@ with
 ##
 6
 ##
-6 filets de soles
+6 filets de soles poisson
 4 échalotes hachées
 1 dl vin blanc
 champignons
