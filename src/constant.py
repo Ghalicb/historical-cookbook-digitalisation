@@ -1,7 +1,5 @@
 
 Units = [
-	# Standard measures
-	'litres', 'litre'
 	# Spoons
 	'cuil. café', 'cuil. à soupe', 'cuil. soupe', 'petite cuil.', 'grande cuil.', 'cuil.', 
 	# Glasses
@@ -13,12 +11,10 @@ Units = [
 	# Spices & Aromatic plants
 	'gousses', 'gousse', 'branches', 'branche', 'bâtons', 'bâton', 'pincée',
 	# Meat related
-	'membres', 'membre', 'tronçons', 'tronçon', 'tranches', 'tranche'
+	'membres', 'membre', 'tronçons', 'tronçon', 'tranches', 'tranche',
+	# Standard measures
+	'litres', 'litre', 'cl', 'dl', 'kg', 'g', 'l'
 ]
-
-
-# Standard measures
-Units_letters = ['cl', 'dl', 'kg', 'g', 'l']
 
 Region2SubRegion = {
 	"Paris, Ile de France, Val de Loire": ['Paris', 'Ile-de-France', 'Orléans', 'Touraine'],
