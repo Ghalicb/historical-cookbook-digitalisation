@@ -1,5 +1,4 @@
-import os
-import pandas as pd
+from multiset import *
 
 from constant import *
 
@@ -112,3 +111,48 @@ def collect_all_ingredient_contents(recipes_df):
       contents.add(content)
   
   return contents
+
+def collect_ingredient_multiset(recipes_df):
+  """
+  Create the set of all the ingredient contents from the given recipes.
+
+  Parameters
+  ----------
+  recipes_df: pandas.core.frame.DataFrame
+    DataFrame of recipes where each recipe contains at list a field "Ingredients" with
+    the full list of ingredient it uses, each separated by a newline.
+
+  """
+  contents_multiset = Multiset()
+
+  for _, recipe in recipes_df.iterrows():
+    for ingredient in recipe['ingredients'].split('\n'):
+      (_, _, content) = create_ingredient_tuple(ingredient)
+      contents_multiset.update(content)
+  
+  return contents_multiset
+
+def ingredient_count(recipes_df):
+  """
+  Create a dictionary to count the number occurrance of each ingredient
+
+  Parameters
+  ----------
+  recipes_df: pandas.core.frame.DataFrame
+    DataFrame of recipes where each recipe contains at list a field "Ingredients" with
+    the full list of ingredient it uses, each separated by a newline.
+
+  """
+  contents_cnt = dict()
+
+  for _, recipe in recipes_df.iterrows():
+    for ingredient in recipe['ingredients'].split('\n'):
+      (_, _, content) = create_ingredient_tuple(ingredient)
+      if content in contents_cnt.keys():
+          contents_cnt[content] += 1
+      elif content+'s' in contents_cnt.keys():
+          contents_cnt[content+'s'] += 1
+      else:
+        contents_cnt[content] = 1
+  
+  return contents_cnt
