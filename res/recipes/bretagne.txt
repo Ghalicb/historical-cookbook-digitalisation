@@ -408,7 +408,7 @@ with
 ##
 6
 ##
-1.75 kg gigot
+1.75 kg gigot d'agneau
 1 kg haricots blancs
 4 gousses ail
 2 gros oignons
@@ -450,7 +450,7 @@ with
 ##
 1 chou blanc
 250 g hachis de levraut
-250 g barde de lard
+250 g barde de lard porc
 125 g beurre
 6 cl vin blanc
 1 dl jus de veau
@@ -494,7 +494,7 @@ with
 ##
 1 caneton
 2 kg pois nouveaux
-125 g lard
+125 g lard porc
 125 g fond de veau
 12 petits oignons
 bouquet de sarriette
@@ -523,7 +523,7 @@ with
 250 g farine de blé noir
 2 œufs
 2 dl lait
-1 couenne lard
+1 couenne de lard porc
 sel
 ##
 Pour une douzaine et demie de crêpes, mélanger soigneusement une

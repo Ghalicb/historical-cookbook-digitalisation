@@ -6,10 +6,10 @@ with
 ##
 6
 ##
-1 kg gras-double
+1 kg gras-double bœuf
 1 pied de veau
 1 pied de bœuf
-125 g couenne
+125 g couennes de lard porc
 2 carottes
 4 oignons
 1 gousse ail
@@ -108,7 +108,7 @@ with
 1 oignon
 1 dl cidre ou vin rouge
 3 cuil. glace de viande
-3 cuil. jus de rôti
+3 cuil. jus de rôti viande
 citron
 sel
 poivre
@@ -129,7 +129,7 @@ with
 ##
 3-4
 ##
-2 soles poisson
+2 soles
 1 litre moule
 125 g crevettes
 125 g champignons
@@ -177,7 +177,7 @@ with
 ##
 4-5
 ##
-1 barbue poisson ou turbot poisson
+1 barbue ou turbot
 2 litres moules marinière
 6 oignons
 250 g crevettes
@@ -210,7 +210,7 @@ with
 4-5
 ##
 1 canard
-125 g lard
+125 g lard porc
 50 g beurre
 3.5 oignons
 1 dl vin rouge
@@ -367,7 +367,7 @@ with
 1 petit chou
 250 g haricots verts OU 125 g flageolets
 1 branche céleri
-1 cuil. graisse
+1 cuil. graisse normande bœuf
 persil
 sel
 poivre
@@ -433,7 +433,7 @@ with
 ##
 5 kg oie
 250 g filet de porc
-250 g lard
+250 g lard porc
 1 cuil. graisse d'oie
 2 gros oignons
 2 œufs
@@ -479,7 +479,7 @@ with
 ##
 6
 ##
-12 alouettes
+12 alouettes oiseau
 6 pommes reinette
 125 g beurre
 mie de pain
@@ -510,7 +510,7 @@ with
 1 dl crème
 1 cuil. vinaigre
 1 citron
-200 g jambon
+200 g jambon porc
 1 truffe
 sel
 poivre
@@ -684,7 +684,7 @@ with
 ##
 4
 ##
-1 grosse raie poisson
+1 grosse raie
 125 g beurre
 1 dl crème
 2 œufs

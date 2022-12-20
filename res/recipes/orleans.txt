@@ -27,7 +27,7 @@ with
 ##
 6
 ##
-2.5 kg carpes poisson
+2.5 kg carpes
 1 œuf
 0.5 litre crème fraîche
 100 g champignons
@@ -75,7 +75,7 @@ with
 30 cl eau-de-vie Armagnac
 10 champignons
 10 petits oignons
-125 g lardons
+125 g lardons porc
 1 truffe
 ##
 Pour 2 ou 3 personnes : Détailler le faisan en morceaux, les faire rissoler
@@ -128,7 +128,7 @@ without
 ##
 caille
 feuille de vigne
-barde de lard salé
+barde de lard salé porc
 beurre
 consommé
 ##
@@ -155,12 +155,12 @@ without
 -
 ##
 gibier
-foie
-lard
+foie viande
+lard porc
 truffe
-alouette
+alouette oiseau
 beurre
-jambon fumé
+jambon fumé porc
 pâte
 laurier
 œuf
@@ -273,7 +273,7 @@ with
 6
 ##
 20 grives oiseau
-100 g foie gras
+100 g foie gras oiseau
 200 g veau
 200 g maigre de porc
 200 g gras de porc
@@ -326,9 +326,9 @@ with
 ##
 1 levreau
 150 g mie de pain
-400 g foie gras
+400 g foie gras oiseau
 30 gousses d'ail
-bardes de lard
+bardes de lard porc
 2 verres vin Bourgogne
 3 gros oignons
 15 cl sang de veau ou sang de porc

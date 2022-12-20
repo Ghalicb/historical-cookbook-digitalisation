@@ -6,13 +6,13 @@ with
 ##
 6
 ##
-500 g congre poisson
-500 g lotte poisson
-1 gros grondin poisson
-1 rascasse poisson
+500 g congre
+500 g lotte
+1 gros grondin
+1 rascasse
 6 langoustines
 1 litre moules
-1 tête merlu poisson
+1 tête merlu
 0.5 litre vin blanc
 2 oignons
 1 cuil. piment doux
@@ -49,7 +49,7 @@ with
 6
 ##
 300 g riz Caroline
-100 g jambon de bayonne
+100 g jambon de Bayonne porc
 3 membres de poulet
 6 tronçons de langouste
 6 tronçons de lotte
@@ -140,7 +140,7 @@ with
 ##
 500 g riz
 1 chorizo
-100 g lard fumé
+100 g lard fumé porc
 150 g olives vertes
 400 g piments espagnols
 1 kg tomates fraîches OU 6 cuil. tomate concentrée
@@ -224,7 +224,7 @@ with
 ##
 6
 ##
-1 boîte filets morue poisson
+1 boîte filets morue
 1 kg tomates
 200 g piments espagnols
 ail
@@ -254,7 +254,7 @@ with
 ##
 6
 ##
-6 tranches Merluza poisson
+6 tranches Merluza
 500 g pois frais
 500 g pointes d'asperges
 500 g pommes de terre
@@ -285,7 +285,7 @@ with
 1 kg tomates
 24 piments verts
 1 œuf
-6 tranches jambon de Bayonne
+6 tranches jambon de Bayonne porc
 huile
 oignon
 ail
@@ -320,7 +320,7 @@ with
 260 g sucre
 200 g beurre
 0.25 litre lait
-rhum
+eau-de-vie Rhum
 citron râpé
 crème patissière ou confitures cerises
 ##
@@ -403,9 +403,9 @@ with
 6
 ##
 1.4 kg poule
-350 g jambon
-200 g escalope
-1 kg plates côtes
+350 g jambon porc
+200 g escalope de veau
+1 kg plates côtes bœuf
 200 g carottes
 120 g navets
 100 g poireaux

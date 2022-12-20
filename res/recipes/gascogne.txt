@@ -95,7 +95,7 @@ with
 4
 ##
 1 alose
-250 g jambon Bayonne
+250 g jambon Bayonne porc
 feuilles d'oseille
 huile d'olive
 ##
@@ -240,8 +240,8 @@ with
 ##
 1
 ##
-3 ortolans
-foie gras
+3 ortolans oiseau
+foie gras oiseau
 beurre
 grains de raisin
 canapés
@@ -263,8 +263,8 @@ with
 ##
 -
 ##
-tourterelles
-jambon des Landes
+tourterelles oiseau
+jambon des Landes porc
 canapés
 eau-de-vie Armagnac
 ##

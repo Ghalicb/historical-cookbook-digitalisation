@@ -7,7 +7,7 @@ with
 4
 ##
 2 petits poulets
-100 g lards
+100 g lards porc
 150 g farine
 125 g beurre
 200 g champignons
@@ -43,7 +43,7 @@ without
 veau
 porc
 gibier
-girofle champignon
+girofle
 épices
 muscade
 poivre
@@ -52,7 +52,7 @@ beurre
 échalote
 oignon
 persil
-lard gras
+lard gras porc
 vin blanc
 couenne de porc
 pied de veau
@@ -112,7 +112,7 @@ with
 ##
 4
 ##
-1 kg brochets poisson
+1 kg brochets
 150 g beurre
 6.5 cl eau-de-vie Mirabelle
 2 échalotes
@@ -155,8 +155,8 @@ with
 6-8
 ##
 500 g épaule de porc
-400 g saucisson
-250 g lard
+400 g saucisson porc
+250 g lard porc
 1 petit chou
 100 g haricots secs
 4 carottes
@@ -212,7 +212,7 @@ with
 6 œufs
 6.5 cl crème fraîche
 100 g gruyère
-125 g lard maigre
+125 g lard maigre porc
 20 g beurre
 sel
 poivre
@@ -274,9 +274,9 @@ with
 6
 ##
 6 cailles
-125 g foie gras
+125 g foie gras oiseau
 1 truffe
-6.5 cl madère
+6.5 cl vin Madère
 250 g farine
 125 g beurre
 sel
@@ -347,7 +347,7 @@ with
 ##
 4-5
 ##
-150 g lard poitrine fumé
+150 g lard poitrine fumé porc
 150 g farine
 100 g beurre
 2 œufs

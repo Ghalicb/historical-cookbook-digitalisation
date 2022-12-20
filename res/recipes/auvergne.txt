@@ -62,7 +62,7 @@ with
 ##
 1.4 kg poulet
 250 g beurre
-125 g lardons
+125 g lardons porc
 10 petits oignons
 250 g champignons
 1 truffe
@@ -137,7 +137,7 @@ without
 ##
 -
 ##
-jambon
+jambon porc
 court-bouillon
 sucre
 vin blanc
@@ -161,7 +161,7 @@ with
 ##
 1.5 kg coq
 10 petits oignons
-125 lard
+125 lard porc
 50 g beurre
 1 cuil. café farine
 0.75 litre vin rouge

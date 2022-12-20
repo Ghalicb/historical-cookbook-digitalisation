@@ -7,17 +7,17 @@ with
 10
 ##
 500 g haricots
-500 g poitrine salée
+500 g poitrine salée porc
 800 g confit d'oie
-150 g saucisson
+150 g saucisson viande
 500 g épaule de porc
-4 saucisses de campagne
+4 saucisses de campagne viande
 1 carotte
 oignons
 clous de girofle
 bouquet garni
 ail
-couennes
+couennes porc
 jarret de porc
 ##
 Pour 10 personnes: Faire tremper la veille au soir des haricots blancs
@@ -144,7 +144,7 @@ with
 60 escargots
 60 g gros sel
 1 dl huile olive
-250 g jambon
+250 g jambon porc
 2 oignons
 1 gousse ail
 2 œufs

@@ -10,8 +10,8 @@ with
 30 g beurre
 1 dl vin blanc
 300 g filet porc
-300 g lard
-100 g foie gras
+300 g lard porc
+100 g foie gras oiseau
 piment
 poivre
 sel
@@ -68,8 +68,8 @@ oignon
 épinard
 bette
 laitue
-saindoux
-lard
+saindoux porc
+lard porc
 sang de porc
 baudruche de bœuf
 poivre
@@ -203,9 +203,9 @@ with
 8-10
 ##
 2 kg veau
-125 g barde de lard
+125 g barde de lard porc
 600 g morilles
-150 g jambon
+150 g jambon porc
 150 g beurre
 100 g oignons
 90 g carottes

@@ -43,7 +43,7 @@ with
 6
 ##
 6 champignons
-50 g lard gras
+50 g lard gras porc
 2 gousses ail
 0.5 petit oignon
 persil
@@ -178,9 +178,9 @@ with
 ##
 -
 ##
-1 rouget poisson
+1 rouget
 huile d'olive
-1 tranche de bacon
+1 tranche de bacon porc
 4 jaunes d'œufs
 crème fraîche
 2 cuil. café purée d'anchois
@@ -219,7 +219,7 @@ with
 ##
 6
 ##
-1.5 kg gigot
+1.5 kg gigot d'agneau
 6 aubergines
 1 gros oignon
 125 g champignons
@@ -326,7 +326,7 @@ with
 1 kg oignons
 1 dl huile d'olive
 400 g pâte à pain
-12 filets anchois poisson
+12 filets anchois
 4 tomates
 ail
 olives noires
@@ -427,7 +427,7 @@ with
 1 cœur céleri
 50 g champignons
 1 artichaut
-1 boîte d'anchois poisson
+1 boîte d'anchois
 500 g pain
 1 dl huile d'olive
 ##
@@ -456,7 +456,7 @@ with
 1 cœur céleri
 50 g champignons
 1 artichaut
-1 boîte d'anchois poisson
+1 boîte d'anchois
 500 g pain
 1 dl huile d'olive
 ##

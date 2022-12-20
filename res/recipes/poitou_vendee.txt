@@ -11,7 +11,7 @@ with
 7 œufs
 1 cuil. sucre
 250 g porc ou lapin ou poulet
-125 g foie
+125 g foie viande
 persil
 ciboulette
 sel
@@ -21,7 +21,7 @@ Faites une pâte avec de la farine, pincée de sel, beurre, un œuf, sucre
 fondu dans un peu d’eau. Mettez de côté une petite partie de la pâte
 pour couvrir le pâté ; étendez l’autre partie qui doit être mince dans un
 moule de façon à en retourner les bords. Placez sur cette pâte des œufs
-durs coupés en deux, morceaux de pore, de jeune lapin, ou de poulet
+durs coupés en deux, morceaux de porc, de jeune lapin, ou de poulet
 revenus dans la poêle et refroidis; on y ajoute aussi des boulettes de
 hachis de la grosseur d’une noix (hachis fait avec de la poitrine de porc,
 un morceau de foie, persil et quelques tiges de ciboules). Recouvrez avec
@@ -41,7 +41,7 @@ with
 1 lapin de garenne
 0.75 litre vin blanc
 6 cl eau-de-vie Cognac
-500 g jambon
+500 g jambon porc
 1 pied de veau
 bouquet garni
 ail
@@ -108,7 +108,7 @@ with
 ##
 6-8
 ##
-2 kg colin poisson
+2 kg colin
 1 l vin blanc
 800 g cèpes
 40 g beurre

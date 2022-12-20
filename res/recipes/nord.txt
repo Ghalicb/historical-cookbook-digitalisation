@@ -57,7 +57,7 @@ poireau
 céleri
 bouquet garni
 pomme de terre
-saucisse de campagne
+saucisse de campagne viande
 croûton de pain
 ##
 Ne se fait (comme dans le Midi le pot-au-feu) que dans une haute
@@ -97,15 +97,15 @@ with
 4-6
 ##
 1 canard
-100 g foie gras
+100 g foie gras oiseau
 1 truffe
-250 g lard de poitrine
+250 g lard de poitrine porc
 150 g filet de lapin
-6 cl eau de vie
+6 cl eau-de-vie
 1 dl jus de viande
 2 œufs entiers
-2 verres Madère
-6 cl cognac
+2 verres vin Madère
+6 cl eau-de-vie Cognac
 ##
 Pour 4 à 6 personnes: La pâte: 24 heures avant de faire le pâté, la
 préparer avec 2 livres de farine tamisée au milieu de laquelle — comme
@@ -214,7 +214,7 @@ with
 160 g oignons
 70 g beurre
 0.5 litre bière
-l cuil. vinaigre de cidre
+1 cuil. vinaigre de cidre
 1 cuil. moutarde
 6 baies genièvre
 0.5 gousse ail

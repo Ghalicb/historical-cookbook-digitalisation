@@ -264,7 +264,7 @@ without
 ##
 -
 ##
-entrecôte
+entrecôte bœuf
 cresson
 SAUCE BERCY
 ##
@@ -370,7 +370,7 @@ with
 -
 ##
 volaille ou viande froide
-125 g jambon maigre
+125 g jambon maigre porc
 1 œuf
 200 g champignons
 mie de pain
@@ -394,7 +394,7 @@ without
 ##
 2
 ##
-perche poisson
+perche
 beurre
 SAUCE A LA RAVIGOTE
 ##
@@ -468,7 +468,7 @@ with
 ##
 2
 ##
-2 merlans poisson
+2 merlans
 1 dl vin blanc
 12 champignons
 50 g beurre
@@ -496,7 +496,7 @@ with
 ##
 100 g oignons
 500 g blanc de volaille
-400 g lard
+400 g lard porc
 4 œufs
 thym
 laurier
@@ -789,10 +789,10 @@ with
 2-3
 ##
 6 grives oiseau
-100 g lard
+100 g lard porc
 100 g veau
 100 g foie de volaille
-100 g foie gras truffé
+100 g foie gras truffé oiseau
 2 baies de genièvre
 ##
 Pour 2 ou 3 personnes : Préparer la farce suivante : Faire sauter ensemble 
@@ -835,8 +835,8 @@ with
 6
 ##
 1 kg bœuf
-250 g lard de poitrine
-100 g lard gras
+250 g lard de poitrine porc
+100 g lard gras porc
 200 g couenne de porc
 1 pied de veau
 2 dl vin blanc
@@ -856,7 +856,7 @@ Pour 6 personnes: Prendre un bon morceau de tranche de bœuf, le
 larder de lard gras et le laisser mariner dans un peu de cognac et des 
 aromates pendant deux heures en le retournant plusieurs fois. Mettre sur feu
 vif 1/4 de lard de poitrine coupé en dés, la même proportion de couennes
-de pore ébouillantées, ajouter le morceau de bœuf, un pied de veau (os
+de porc ébouillantées, ajouter le morceau de bœuf, un pied de veau (os
 coupés en morceaux).
 
 Laisser bien saisir la viande. Retirer et la maintenir au chaud.
@@ -881,7 +881,7 @@ with
 ##
 5-6
 ##
-800 g jambon
+800 g jambon porc
 2 carottes
 2 oignons
 3 dl vin blanc

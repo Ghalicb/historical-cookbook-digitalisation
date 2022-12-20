@@ -6,10 +6,10 @@ with
 ##
 4
 ##
-2 perdrix
+2 perdrix oiseau
 1.7 kg champignons
-150 g lard
-150 g jambon
+150 g lard porc
+150 g jambon porc
 150 g oignons
 4 gousses ail
 2 échalotes
@@ -81,9 +81,9 @@ with
 ##
 6-8
 ##
-500 g lard
-1 palette
-1 jarret porc
+500 g lard porc
+1 palette porc
+1 jarret de porc
 1 chou pommé
 6 carottes
 2 gousses ail
@@ -91,7 +91,7 @@ with
 4 raves
 1 oignon
 6 poireaux
-500 g pommes terre
+500 g pommes de terre
 sel
 poivre
 ##
@@ -120,7 +120,7 @@ with
 4-5
 ##
 1 poulet
-50 g lardons
+50 g lardons porc
 6 oignons
 50 g beurre
 6 échalotes
@@ -162,7 +162,7 @@ with
 ##
 2-3
 ##
-1 kg rumsteack
+1 kg rumsteack bœuf
 6 échalotes
 1 cuil. moutarde
 1 dl vin blanc sec
@@ -195,12 +195,12 @@ with
 ##
 8-10
 ##
-1 jambon
+1 jambon porc
 2 jarrets de veau
 250 g bas morceaux de veau
 250 g gite de bœuf
 2 pieds de veau
-250 g couennes de lard
+250 g couennes de lard porc
 6 carottes
 2 oignons
 6 poireaux
@@ -248,7 +248,7 @@ with
 1 oignon
 1 branche céleri
 1 branche estragon
-pointe de Cayenne
+pointe de piment de Cayenne
 piment
 thym
 laurier
@@ -256,7 +256,7 @@ poivre en grains
 grains d'anis
 ##
 Pour 3 ou 4 personnes: Emincer finement carottes, échalotes, oignons,
-céleri. Etuver ces légumes pendant quelques minutes à see, couverts. Ne
+céleri. Etuver ces légumes pendant quelques minutes à sec, couverts. Ne
 pas colorer. Les mouiller d’une bouteille de vin de Chablis jeune. Ajouter
 une branche d’estragon, une pointe de Cayenne, de piment séché pulvérisé,
 un peu de thym, de laurier, de sel, un sachet de poivre en grains, du poivre
@@ -352,14 +352,14 @@ with
 ##
 6
 ##
-6 pigeons
-300 g lard
+6 pigeons oiseau
+300 g lard porc
 300 g filet de porc
-6 foies volaille
+6 foies de volaille
 125 g champignons
 550 g beurre
 1 bout. vin Chambertin
-3 cuil. demi-glace
+3 cuil. demi-glace viande
 1 citron
 ##
 Pour 6 personnes: Ceci est une recette pour 6 pigeons. Quand les 6
@@ -399,7 +399,7 @@ with
 1 lièvre
 1 dl eau-de-vie
 125 g raisin
-l cuil. poivrade
+1 cuil. sauce poivrade
 1 cuil. crème double
 céleri
 thym
@@ -425,8 +425,8 @@ with
 ##
 6-8
 ##
-1.5 kg jambon
-250 g jarret
+1.5 kg jambon porc
+250 g jarret de porc
 2 pieds de veau
 2 litres vin blanc
 1 dl persil haché
@@ -465,7 +465,7 @@ with
 3
 ##
 36 escargots
-500 g jambon
+500 g jambon porc
 300 g carottes
 1 oignon
 12 échalotes

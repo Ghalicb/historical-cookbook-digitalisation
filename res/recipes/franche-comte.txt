@@ -31,7 +31,7 @@ with
 -
 ##
 1 rable de lièvre
-100 g lard
+100 g lard porc
 50 g beurre
 25 g farine
 2 échalotes
@@ -106,7 +106,7 @@ with
 ##
 2
 ##
-1 truite poisson
+1 truite
 0.75 litre vin rosé
 125 g gélatine
 bouquet garni
@@ -132,7 +132,7 @@ with
 ##
 2-3
 ##
-1 truite poisson
+1 truite
 100 g beurre
 1 dl crème fraîche
 1 citron
@@ -155,7 +155,7 @@ with
 ##
 6
 ##
-600 g oronges
+600 g oronges oiseau
 6 laitues
 100 g beurre
 1 jarret veau
@@ -273,7 +273,7 @@ without
 grive de vignes oiseau
 raisin
 feuille de vigne
-barde de lard
+barde de lard porc
 vin jaune
 ##
 Garnir intérieurement de belles grives de vignes avec des grains de

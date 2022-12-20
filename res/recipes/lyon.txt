@@ -57,7 +57,7 @@ lait
 farine
 œuf
 fromage râpé
-jambon haché
+jambon haché porc
 sauce tomate
 ##
 Faire une béchamel au lait (épaisse) à raison d’une cuillerée de farine
@@ -138,7 +138,7 @@ without
 vin blanc
 légumes
 velouté de volaille
-oronges des Césars
+oronges des Césars oiseau
 beurre
 oignon
 échalote
@@ -189,7 +189,7 @@ with
 ##
 6
 ##
-1 kg gras-double
+1 kg gras-double bœuf
 2 gros oignons
 6 cl huile
 50 g beurre
@@ -248,7 +248,7 @@ with
 2 harengs marinés
 4 ciboulettes
 estragon
-persi
+persil
 cerfeuil
 vinaigre
 huile

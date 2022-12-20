@@ -95,7 +95,7 @@ with
 ##
 1.5 kg poulet
 1 kg champignons
-100 g jambon
+100 g jambon porc
 150 g beurre
 1 oignon
 persil
@@ -126,7 +126,7 @@ without
 -
 ##
 pâte feuilletée
-jambon
+jambon porc
 sauce mornay
 fromage de Gruyère
 ##
@@ -167,12 +167,12 @@ with
 ##
 6
 ##
-1 beau chou
+1 chou
 12 carottes
 6 pommes de terre
-450 g saucisson
-250 g poitrine
-500 g échine
+450 g saucisson viande
+250 g poitrine porc
+500 g échine porc
 ##
 Pour 6 personnes : Prendre un beau chou frisé, le faire blanchir. Ajouter
 carottes, pommes de terre. Mettre ensuite à braiser avec un saucisson, un

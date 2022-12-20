@@ -41,7 +41,7 @@ with
 ##
 4
 ##
-8 oronges
+8 oronges oiseau
 8 œufs
 1 dl crème double
 1 cuil. échalotes
@@ -112,7 +112,7 @@ with
 1.25 l vin blanc
 6 cl huile d'olive
 150 g beurre
-Ï cuil. farine
+1 cuil. farine
 2 gousses ail
 2 oignons
 4 échalotes
@@ -154,7 +154,7 @@ with
 750 g farine
 4 œufs
 2 cuil. eau-de-vie
-300 g'beurre
+300 g beurre
 sucre en poudre
 ##
 Mettez 750 g de farine dans un grand récipient. Dans un trou pratiqué
@@ -209,11 +209,11 @@ with
 1 gros oignon
 1 foie lapin ou foie poulet
 1.5 l vin blanc
-50 g lard frais
+50 g lard frais porc
 1 œuf
 sarriette
 estragon
-menthe 
+menthe
 basilic
 sel
 poivre
@@ -300,7 +300,7 @@ without
 huîtres
 échalotes
 fines herbes
-oeufs
+œufs
 paprika
 huile
 vinaigre

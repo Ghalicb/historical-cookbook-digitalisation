@@ -35,7 +35,7 @@ with
 500 g carottes
 6 cèpes
 12 marrons
-l cuil. sauce tomate
+1 cuil. sauce tomate
 thym
 persil
 ##
@@ -59,7 +59,7 @@ with
 ##
 4-6
 ##
-1 foie gras
+1 foie gras oiseau
 toast
 beurre
 SAUCE QUERCYNOISE
@@ -122,7 +122,7 @@ laurier
 thym
 clou de girofle
 muscade
-glace de viande ou jus de rôti
+glace de viande ou jus de rôti de veau
 ##
 Pour 6 personnes : Il s’agit, non de pommes frites, mais de pommes de
 terre sautées à cru, à la poêle et à la graisse d’oie.
@@ -193,7 +193,7 @@ without
 ##
 pâte à brioche
 œuf
-foie gras
+foie gras oiseau
 truffe
 eau-de-vie Cognac ou eau-de-vie Armagnac
 vin porto
@@ -223,8 +223,8 @@ without
 ##
 pâte feuilletée
 truffe
-lard gras
-foie gras
+lard gras porc
+foie gras oiseau
 farine
 graisse de confit d'oie
 ##
@@ -294,10 +294,10 @@ with
 ##
 4
 ##
-2 kg carpe poisson
+2 kg carpe
 1.5 truffes
 100 g farce
-400 g foie gras
+400 g foie gras oiseau
 1 verre à liqueur fine Champagne
 ##
 Pour 4 personnes : Prendre une très belle carpe de 2 kg dont vous aurez
@@ -321,7 +321,7 @@ with
 6
 ##
 1 kg filet de bœuf
-250 g foie gras
+250 g foie gras oiseau
 1 truffe
 sel
 poivre
@@ -409,7 +409,7 @@ with
 6
 ##
 1.5 kg lièvre
-250 g lard
+250 g lard porc
 500 g porc
 125 g veau
 1 litre vin rouge
@@ -425,7 +425,7 @@ ail
 persil
 oignons
 2 truffes
-125 g jambon maigre
+125 g jambon maigre porc
 ##
 Pour 6 personnes: Dépouiller et vider le lièvre tout en mettant de côté
 le foie, les rognons, le cœur et le sang dans lequel on verse un peu de

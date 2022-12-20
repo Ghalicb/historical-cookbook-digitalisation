@@ -182,7 +182,7 @@ with
 1 kg lamproie
 9 poireaux
 0.5 l vin rouge
-150 g jambon
+150 g jambon porc
 30 g beurre
 25 g farine
 6 cl eau-de-vie Cognac
@@ -248,7 +248,7 @@ with
 4
 ##
 12 cèpes
-250 g jambon
+250 g jambon porc
 1 dl huile d'olive
 2 dl vin blanc
 1 dl sauce tomate
@@ -272,7 +272,7 @@ with
 ##
 2-3
 ##
-1 kg entrecote viande
+1 kg entrecôte bœuf
 6.5 échalotes
 huile d'olive
 sel
@@ -323,7 +323,7 @@ with
 ##
 6
 ##
-6 filets de soles poisson
+6 filets de soles
 4 échalotes hachées
 1 dl vin blanc
 champignons

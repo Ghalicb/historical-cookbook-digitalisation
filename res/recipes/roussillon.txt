@@ -44,7 +44,7 @@ with
 90 g beurre
 500 g tomate fraiche OU 1 cuil. tomate concentrée
 olives noires
-filet anchois poisson
+filet anchois
 ##
 Pour 4 personnes: Faire une pâte 1/2 feuilletée mais prendre grand
 soin de ne pas l’étendre au rouleau. Lui donner à la main la grandeur du
@@ -69,7 +69,7 @@ without
 -
 ##
 huile d'olive
-saindoux
+saindoux porc
 piment rouge
 ail
 farine
@@ -118,12 +118,12 @@ with
 ##
 500 g haricots blancs
 1 gros chou
-6 pommes terre
+6 pommes de terre
 1.5 oignons
 1 carotte
 1 navet
-1 os salé
-tranches de jambon ou boudin noir
+1 os salé viande
+tranches de jambon porc ou boudin noir porc
 ##
 Pour 5 personnes: Pour effectuer cette recette, il est nécessaire d’avoir
 deux marmites. Dans la première, mettre cuire une livre de haricots, en
@@ -173,7 +173,7 @@ without
 ##
 6
 ##
-saindoux
+saindoux porc
 ail
 persil
 sel
@@ -303,7 +303,7 @@ with
 ##
 6 aubergines
 1 dl huile
-125 g lard
+125 g lard porc
 mie de pain
 ail
 persil

@@ -6,7 +6,7 @@ with
 ##
 -
 ##
-250 g poitrine
+250 g poitrine porc
 1 petit chou
 2 litres bouillon
 250 g pois frais
@@ -54,7 +54,7 @@ with
 4
 ##
 1.5 kg poule
-200 g lardons
+200 g lardons porc
 500 g oignons
 5 cuil. farine
 1 cuil. vinaigre
@@ -86,7 +86,7 @@ with
 ##
 4
 ##
-1 kg lamproie poisson
+1 kg lamproie
 1 dl huile de noix
 200 g beurre
 persil
@@ -115,8 +115,8 @@ with
 ##
 4-5
 ##
-1 kg saumon poisson
-125 g lardons
+1 kg saumon
+125 g lardons porc
 250 g échalotes
 200 g beurre
 0.5 verre vinaigre
@@ -168,8 +168,8 @@ with
 ##
 3-4
 ##
-1.5 kg alose poisson
-1 kg champignons tricholomes
+1.5 kg alose
+1 kg champignons
 300 g échalotes
 1 dl vin blanc
 125 g beurre
@@ -222,8 +222,8 @@ with
 8
 ##
 500 g farine
-500 g rillons sans os
-200 g rillettes
+500 g rillons sans os porc
+200 g rillettes porc
 6 œufs
 200 g beurre
 1 dl crème fraîche
@@ -258,7 +258,7 @@ with
 6-8
 ##
 2.5 l bouillon de bœuf et veau
-350 g champignons tricholomes
+350 g champignons
 1 lapin
 1 verre vin blanc
 3 oignons
@@ -317,7 +317,7 @@ with
 10 cl eau-de-vie marc Touraine ou eau-de-vie Cognac
 1 kg farce de porc
 1 œuf
-200 g jambon
+200 g jambon porc
 épices
 thym
 laurier

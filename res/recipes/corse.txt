@@ -10,7 +10,7 @@ merle oiseau
 filet de porc
 foie de porc
 panne de porc
-lard de porc
+lard porc
 sel
 poivre
 laurier
@@ -121,7 +121,7 @@ with
 6
 ##
 1.25 kg poulet
-125 g lardons
+125 g lardons porc
 125 g champignons
 200 g olives dénoyautées
 500 g pommes de terre

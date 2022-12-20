@@ -81,7 +81,7 @@ with
 ##
 -
 ##
-1 kg foie gras
+1 kg foie gras oiseau
 1 truffe
 1 dl gelée
 100 g beurre
@@ -227,11 +227,11 @@ with
 1 pomme
 10 grains genièvre
 0.5 litre bouillon
-500 g lard de poitrine
+500 g lard de poitrine porc
 1.5 cl eau-de-vie Kirsch
 500 g pommes de terre
 côtes de porc
-saucisses
+saucisses porc
 ##
 Pour 3 personnes: Dans une marmite bien étamée (ou en terre) faire
 dorer 1 oignon finement coupé dans 2 bonnes cuillerées à soupe de graisse

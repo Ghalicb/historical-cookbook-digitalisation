@@ -80,7 +80,7 @@ without
 ##
 -
 ##
-lard de poitrine
+lard de poitrine porc
 champignon
 persil
 cerfeuil
@@ -102,7 +102,7 @@ without
 ##
 -
 ##
-cèpes champignon
+cèpes
 viande de porc
 viande de veau
 ail
@@ -136,7 +136,7 @@ beurre
 sel
 sucre
 bouillon
-chair à saucisse
+chair à saucisse viande
 persil
 oignon
 ##
@@ -189,7 +189,7 @@ without
 ##
 -
 ##
-filet de lard
+filet de lard porc
 beurre
 sel
 ##
@@ -236,7 +236,7 @@ oignon
 beurre
 bœuf
 persil
-lard de poitrine
+lard de poitrine porc
 sel
 poivre
 mie de pain
@@ -264,7 +264,7 @@ without
 -
 ##
 lièvre
-lard
+lard porc
 persil
 pain
 lait

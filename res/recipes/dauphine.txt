@@ -74,7 +74,7 @@ with
 6
 ##
 1 kg pommes de terre
-100 g lardons
+100 g lardons porc
 3 cuil. huile d'olive
 175 g tomates fraîches
 ##
@@ -199,7 +199,7 @@ with
 6 cailles
 120 g truffes
 325 g champignons
-250 g lard
+250 g lard porc
 1 gousse ail
 1 verre bouillon
 1 dl vin blanc
