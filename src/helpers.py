@@ -70,6 +70,14 @@ def create_ingredient_tuple(ingredient):
   else:
     content = ingredient
 
+  # Remove starting "de " and "d'" from the content
+  content_list = content.split(' ')
+  if (content_list[0] == 'de'): 
+    content = ' '.join(content_list[1:])
+  if (content_list[0].startswith("d'")):
+    content_list[0] = content_list[0][2:]
+    content = ' '.join(content_list)
+
   return (quantity, unit, content)
   
 
@@ -114,7 +122,7 @@ def collect_all_ingredient_contents(recipes_df):
 
 def ingredients_frequency(recipes_df):
   """
-  Create a dictionary to count the number of occurrances of each ingredient
+  Create a dictionary to count the number of occurrances of each ingredient in the given recipes.
 
   Parameters
   ----------
