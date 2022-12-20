@@ -1,5 +1,3 @@
-from multiset import *
-
 from constant import *
 
 ### DATA LOADING
@@ -58,13 +56,15 @@ def create_ingredient_tuple(ingredient):
     # Check whether the ingredient has a unit (if it has a quantity)
     for u in Units:
       if unit == '-' and u in ' '.join(ing_list[1:]):
-        unit = u
+        # remove the extra spaces added for the small unit (e.g. 'l ')
+        unit = u.strip()
     
     # The rest of the ingredient is the content
     if unit == '-':
       content = ' '.join(ing_list[1:])
     else:
-      content = ' '.join(ing_list[2:])
+      unit_nb_words = len(unit.split(' '))
+      content = ' '.join(ing_list[1+unit_nb_words:])
 
   # The ingredient does not start with a quantity
   else:
@@ -80,7 +80,7 @@ def ingredient_tuples_from_recipe(recipe):
   Parameters
   ----------
   recipe: pandas.core.series.Series
-    Recipe containing at list a field "Ingredients" containing the full list of ingredient
+    Recipe containing at list a field "ingredients" containing the full list of ingredient
     it uses, each separated by a newline.
 
   """
@@ -99,7 +99,7 @@ def collect_all_ingredient_contents(recipes_df):
   Parameters
   ----------
   recipes_df: pandas.core.frame.DataFrame
-    DataFrame of recipes where each recipe contains at list a field "Ingredients" with
+    DataFrame of recipes where each recipe contains at list a field "ingredients" with
     the full list of ingredient it uses, each separated by a newline.
 
   """
@@ -112,34 +112,14 @@ def collect_all_ingredient_contents(recipes_df):
   
   return contents
 
-def collect_ingredient_multiset(recipes_df):
+def ingredients_frequency(recipes_df):
   """
-  Create the set of all the ingredient contents from the given recipes.
+  Create a dictionary to count the number of occurrances of each ingredient
 
   Parameters
   ----------
   recipes_df: pandas.core.frame.DataFrame
-    DataFrame of recipes where each recipe contains at list a field "Ingredients" with
-    the full list of ingredient it uses, each separated by a newline.
-
-  """
-  contents_multiset = Multiset()
-
-  for _, recipe in recipes_df.iterrows():
-    for ingredient in recipe['ingredients'].split('\n'):
-      (_, _, content) = create_ingredient_tuple(ingredient)
-      contents_multiset.update(content)
-  
-  return contents_multiset
-
-def ingredient_count(recipes_df):
-  """
-  Create a dictionary to count the number occurrance of each ingredient
-
-  Parameters
-  ----------
-  recipes_df: pandas.core.frame.DataFrame
-    DataFrame of recipes where each recipe contains at list a field "Ingredients" with
+    DataFrame of recipes where each recipe contains at list a field "ingredients" with
     the full list of ingredient it uses, each separated by a newline.
 
   """
