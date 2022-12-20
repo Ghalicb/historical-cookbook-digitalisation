@@ -1,19 +1,19 @@
 
 Units = [
 	# Spoons
-	'cuil. café', 'cuil. à soupe', 'cuil. soupe', 'petite cuil.', 'grande cuil.', 'cuil.', 
+	'cuil. à café', 'cuil. café', 'cuil. à soupe', 'cuil. soupe', 'petite cuil.', 'grande cuil.', 'cuil.', 
 	# Glasses
 	'petit verre', 'verre à liqueur', 'verres à liqueur', 'verres', 'verre', 'tasses', 'tasse', 
 	# Bottles
 	'bout.', 'bouteilles', 'bouteille', 
 	# Containers
-	'grande boîte', 'tubes', 'tube', 
+	'grande boîte', 'boîtes', 'boîte', 'tubes', 'tube', 
 	# Spices & Aromatic plants
 	'gousses', 'gousse', 'branches', 'branche', 'bâtons', 'bâton', 'pincée',
 	# Meat related
 	'membres', 'membre', 'tronçons', 'tronçon', 'tranches', 'tranche',
 	# Standard measures
-	'litres', 'litre', 'cl', 'dl', 'kg', 'g', 'l'
+	'litres ', 'litre ', 'cl ', 'dl ', 'kg ', 'g ' , 'l '
 ]
 
 Region2SubRegion = {
