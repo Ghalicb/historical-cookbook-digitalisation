@@ -219,3 +219,9 @@ def categories_frequency(recipes_df):
   categories_cnt = {k: v for k, v in sorted(categories_cnt.items(), key = lambda i: i[1], reverse= True)}
   
   return categories_cnt
+
+from itertools import islice
+
+def take(n, iterable):
+    """Return the first n items of the iterable as a list."""
+    return list(islice(iterable, n))
