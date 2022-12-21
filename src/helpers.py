@@ -31,9 +31,9 @@ def read_region_file(region_filename):
 
 ### DATA PROCESSING
 
-def create_ingredient_tuple(ingredient):
+def process_ingredient(ingredient):
   """
-  Create a tuple of the form (quantity, unit, content) for an ingredient.
+  Create a tuple of the form (quantity, unit, content, category) for an ingredient.
 
   The ingredient can only have the following formats in the list of ingredients of a recipe:
     - quantity unit content (e.g. "50 g beurre", "1 bout. vin Chablis)
@@ -46,7 +46,7 @@ def create_ingredient_tuple(ingredient):
     Ingredient string part of an ingredient list in a recipe.
 
   """
-  (quantity, unit, content) = ('-', '-', '-')
+  (quantity, unit, content, category) = ('-', '-', '-', '-')
   ing_list = ingredient.split(' ')
 
   # Check whether the ingredient has a quantity
@@ -78,10 +78,15 @@ def create_ingredient_tuple(ingredient):
     content_list[0] = content_list[0][2:]
     content = ' '.join(content_list)
 
-  return (quantity, unit, content)
+  # Find the category of the ingredient
+  for cat in Categories.keys():
+    if category == '-' and Categories[cat] in content.split(' '):
+      category = cat
+
+  return (quantity, unit, content, category)
   
 
-def ingredient_tuples_from_recipe(recipe):
+def process_ingredients_from_recipe(recipe):
   """
   Create the set of ingredient tuples for a given recipe.
 
@@ -95,7 +100,7 @@ def ingredient_tuples_from_recipe(recipe):
   ing_tuples = set()
 
   for ingredient in recipe['ingredients'].split('\n'):
-    ing_tuples.add(create_ingredient_tuple(ingredient))
+    ing_tuples.add(process_ingredient(ingredient))
   
   return ing_tuples
 
@@ -115,7 +120,7 @@ def collect_all_ingredient_contents(recipes_df):
 
   for _, recipe in recipes_df.iterrows():
     for ingredient in recipe['ingredients'].split('\n'):
-      (_, _, content) = create_ingredient_tuple(ingredient)
+      (_, _, content, _) = process_ingredient(ingredient)
       contents.add(content)
   
   return contents
@@ -135,7 +140,7 @@ def ingredients_frequency(recipes_df):
 
   for _, recipe in recipes_df.iterrows():
     for ingredient in recipe['ingredients'].split('\n'):
-      (_, _, content) = create_ingredient_tuple(ingredient)
+      (_, _, content, _) = process_ingredient(ingredient)
       if content in contents_cnt.keys():
           contents_cnt[content] += 1
       elif content+'s' in contents_cnt.keys():
