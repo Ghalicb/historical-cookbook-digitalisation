@@ -171,22 +171,51 @@ def ingredients_frequency(recipes_df):
     the full list of ingredient it uses, each separated by a newline.
 
   """
-  contents_cnt = dict()
+  ingredients_cnt = dict()
 
   for _, recipe in recipes_df.iterrows():
     for ingredient in recipe['ingredients'].split('\n'):
       (_, _, content, _) = process_ingredient(ingredient)
 
-      if content in contents_cnt.keys():
-          contents_cnt[content] += 1
+      if content in ingredients_cnt.keys():
+          ingredients_cnt[content] += 1
 
-      elif content+'s' in contents_cnt.keys():
-          contents_cnt[content+'s'] += 1
+      elif content+'s' in ingredients_cnt.keys():
+          ingredients_cnt[content+'s'] += 1
 
       else:
-        contents_cnt[content] = 1
+        ingredients_cnt[content] = 1
   
   # Sort in reverse order of occurences
-  contents_cnt = {k: v for k, v in sorted(contents_cnt.items(), key = lambda i: i[1], reverse= True)}
+  ingredients_cnt = {k: v for k, v in sorted(ingredients_cnt.items(), key = lambda i: i[1], reverse= True)}
   
-  return contents_cnt
+  return ingredients_cnt
+
+
+def categories_frequency(recipes_df):
+  """
+  Create a dictionary to count the number of occurrances of each category in the given recipes.
+  Sort it in reverse order of occurences.
+
+  Parameters
+  ----------
+  recipes_df: pandas.core.frame.DataFrame
+    DataFrame of recipes where each recipe contains at list a field "ingredients" with
+    the full list of ingredient it uses, each separated by a newline.
+
+  """
+  categories_cnt = dict()
+
+  for _, recipe in recipes_df.iterrows():
+    for ingredient in recipe['ingredients'].split('\n'):
+      (_, _, _, category) = process_ingredient(ingredient)
+
+      if category in categories_cnt.keys():
+          categories_cnt[category] += 1
+      else:
+        categories_cnt[category] = 1
+  
+  # Sort in reverse order of occurences
+  categories_cnt = {k: v for k, v in sorted(categories_cnt.items(), key = lambda i: i[1], reverse= True)}
+  
+  return categories_cnt
