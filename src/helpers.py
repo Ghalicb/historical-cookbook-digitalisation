@@ -158,6 +158,7 @@ def collect_all_ingredient_contents(recipes_df):
   
   return contents
 
+
 def ingredients_frequency(recipes_df):
   """
   Create a dictionary to count the number of occurrances of each ingredient in the given recipes.
@@ -175,10 +176,13 @@ def ingredients_frequency(recipes_df):
   for _, recipe in recipes_df.iterrows():
     for ingredient in recipe['ingredients'].split('\n'):
       (_, _, content, _) = process_ingredient(ingredient)
+
       if content in contents_cnt.keys():
           contents_cnt[content] += 1
+
       elif content+'s' in contents_cnt.keys():
           contents_cnt[content+'s'] += 1
+
       else:
         contents_cnt[content] = 1
   
