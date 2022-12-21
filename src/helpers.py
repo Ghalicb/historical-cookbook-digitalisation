@@ -43,7 +43,7 @@ def process_ingredient(ingredient):
   Parameters
   ----------
   ingredient: string
-    Ingredient string part of an ingredient list in a recipe.
+    Ingredient string, part of an ingredient list in a recipe.
 
   """
   (quantity, unit, content, category) = ('-', '-', '-', '-')
@@ -78,13 +78,44 @@ def process_ingredient(ingredient):
     content_list[0] = content_list[0][2:]
     content = ' '.join(content_list)
 
-  # Find the category of the ingredient
-  for cat in Categories.keys():
-    if category == '-' and Categories[cat] in content.split(' '):
-      category = cat
+  # Find the category of the ingredient, '-' if none
+  category = extract_category_from_ingredient(content)
 
-  return (quantity, unit, content, category)
+  return (quantity, unit, content, category)  
+
+
+def extract_category_from_ingredient(ingredient_content):
+  """
+  Find the category of an ingredient.
+
+  Parameters
+  ----------
+  ingredient_content: string
+    Ingredient content string, part of an ingredient list in a recipe.  
+  """
+  category = '-'
+
+  # Remove extra "d'" that could hide the main ingredient
+  ingredient_content = ingredient_content.replace("d'", '')
+
+  # Go through all the categories
+  for cat in Categories.keys():
+
+    # Go through all the elements belonging to the category
+    for elem in Categories[cat]:
+
+      # Ensure that each ingredient has one category
+      if category == '-':
+
+        # Handle "simple" ingredient
+        if len(elem.split(' ')) == 1 and elem in ingredient_content.split(' '):
+          category = cat
+        # Handle "composed" ingredient (e.g. pomme de terre)
+        elif len(elem.split(' ')) > 1 and elem in ingredient_content:
+          category = cat
   
+  return category
+
 
 def process_ingredients_from_recipe(recipe):
   """
@@ -104,6 +135,8 @@ def process_ingredients_from_recipe(recipe):
   
   return ing_tuples
 
+
+### EXPLORATORY DATA ANALYSIS
 
 def collect_all_ingredient_contents(recipes_df):
   """
@@ -128,6 +161,7 @@ def collect_all_ingredient_contents(recipes_df):
 def ingredients_frequency(recipes_df):
   """
   Create a dictionary to count the number of occurrances of each ingredient in the given recipes.
+  Sort it in reverse order of occurences.
 
   Parameters
   ----------
@@ -147,5 +181,8 @@ def ingredients_frequency(recipes_df):
           contents_cnt[content+'s'] += 1
       else:
         contents_cnt[content] = 1
+  
+  # Sort in reverse order of occurences
+  contents_cnt = {k: v for k, v in sorted(contents_cnt.items(), key = lambda i: i[1], reverse= True)}
   
   return contents_cnt
