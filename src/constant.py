@@ -28,28 +28,32 @@ Categories = {
 	],
 	"Plante aromatique": [
 		# With plural form when countable
-		'ail', 'angélique', 'angéliques', 'anis', 'aromate', 'aromates', 'basilic', 'bouquet garni',
-		'bouquets garnis', 'cerfeuil', 'ciboule', 'ciboules', 'ciboulette', 'ciboulettes', 'cive', 'cives',
-		'clou de girofle', 'clous de girofle', 'câpre', 'câpres', 'estragon', 'feuille de vigne', 
-		'feuilles de vigne', 'fines herbes', 'girofle', 'laurier', 'menthe', 'persil', 'pissenlit', 'romarin',
-		'sarriette', 'thym'
+		'ail', 'angélique', 'angéliques', 'anis', 'aromate', 'aromates', 'badiane', 'basilic', 
+		'bouquet garni', 'bouquets garnis', 'cardamome', 'cerfeuil', 'ciboule', 'ciboules', 'ciboulette', 
+		'ciboulettes', 'cive', 'cives', 'coriandre', 'câpre', 'câpres', 'estragon', 'feuille de vigne', 
+		'feuilles de vigne', 'fines herbes', 'genièvre', 'laurier', 'menthe', 'origan', 'persil', 
+		'pissenlit', 'romarin', 'sarriette', 'serpolet', 'thym'
 	],
 	'Epice': [
 		# With plural form when countable
-		'cannelle', 'coriandre', 'curry', 'moutarde', 'muscade', 'paprika', 'piment', 'piments', 'poivre',
-		'safran', 'sauge', 'sel', 'serpolet', 'épices'
+		'aneth', 'cannelle', 'carvi', 'clou de girofle', 'clous de girofle', 'cumin', 'curcuma', 
+		'curry', 'gingembre', 'girofle', 'moutarde', 'muscade', 'paprika', 'piment', 'piments', 'poivre', 
+		'raifort', 'safran', 'sauge', 'sel', 'épices'
 	],
 	"Produit laitier": [
 		# No plural necessary for dairy product
 		'crème', 'fromage', 'gruyère', 'lait', 'parmesan'
 	],
+	"Œuf": [
+		'œuf', 'œufs'
+	],
 	'Légume': [
 		'artichaut', 'artichauts', 'asperge', 'asperges', 'aubergine', 'aubergines', 'bette', 'bettes',
 		'betterave', 'betteraves', 'cardon', 'cardons', 'chou', 'choux', 'cornichon', 'cornichons',
 		'courgette', 'courgettes', 'cresson', 'céleri', 'fenouil', 'fenouils', 'légume', 'légumes',
-		'navet', 'navets', 'panais', 'poireau', 'poireaux', 'pomme de terre', 'pommes de terre', 'potiron', 
-		'potirons', 'rave', 'raves', 'salade', 'tomate', 'tomates', 'échalote', 'échalotes', 'épinard', 
-		'épinards'
+		'navet', 'navets', 'oignon', 'oignons', 'panais', 'poireau', 'poireaux', 'pomme de terre', 
+		'pommes de terre', 'potiron', 'potirons', 'rave', 'raves', 'salade', 'tomate', 'tomates', 'échalote', 
+		'échalotes', 'épinard', 'épinards'
 	],
 	'Fruit': [
 		'abricot', 'abricots', 'banane', 'bananes', 'cerise', 'cerises', 'cédrat', 'cédrats', 'citron', 
