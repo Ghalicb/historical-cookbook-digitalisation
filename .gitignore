@@ -3,6 +3,7 @@ res/book
 res/pngs
 res/txts
 res/nutrition
+res/personal_notes
 
 # Python related files
 **/__pycache__
